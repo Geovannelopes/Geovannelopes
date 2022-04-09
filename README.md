@@ -1,9 +1,7 @@
 ### Olá! Eu sou o Geovanne Lopes
 
-- 🔭 Hoje trabalho com redes de computadores e inFraestrutura.
+- 🔭 Hoje trabalho com redes de computadores e infraestrutura.
 - 🌱 Estudando back-end com Laravel e front-end  com Vue os (Java Script).
-- 📫 Contate-me no email: geovanneblopes2@gmail.com.
-- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/Geovannelopes">
