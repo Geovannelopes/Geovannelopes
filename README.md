@@ -3,8 +3,7 @@
 
 
 - 🔭 I currently work with computer networks and infrastructure.
-- 🌱 I've been studying back-end with Spring Boot (Java) and front-end with React
-(JavaScript).
+- 🌱 I've been studying front-end with React (JavaScript).
 
 <div align="center">
   <a href="https://github.com/Geovannelopes">
@@ -17,6 +16,9 @@
   <img align="center" alt="Geo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img align="center" alt="Geo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Geo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Geo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            
+          
 </div>
   
  ##
