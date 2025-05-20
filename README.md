@@ -1,4 +1,4 @@
-### Hi! I'm Geovanne Lopes, Future Computer Engineer. 
+### Hi! My name is Geovanne Lopes, I am a Computer Engineer and future Software Engineer at USP. 
 
 
 
